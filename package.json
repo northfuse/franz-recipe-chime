@@ -1,0 +1,13 @@
+{
+  "id": "chime",
+  "name": "chime",
+  "version": "0.0.1",
+  "description": "Chime",
+  "main": "index.js",
+  "author": "Tyler Southwick <tyler@northfuse.io>",
+  "license": "MIT",
+  "repository": "https://github.com/northfuse/recipe-chime",
+  "config": {
+    "serviceURL": "https://app.chime.aws/"
+  }
+}
